@@ -1,2 +1,2 @@
 # iolab.top
-Home page of Time·fairy
+Home page of Time-fairy
